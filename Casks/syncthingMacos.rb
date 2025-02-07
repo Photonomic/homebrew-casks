@@ -1,5 +1,5 @@
 
-cask "syncthing-macos" do
+cask "syncthingMacos" do
   version "1.29.2-1"
   sha256 "90c8466ee81e6b3f87c97891e3488222e59c7983b7c7ec0fc86dfc2e18b644d768bceae91079f15b5653887d229705f47cf95d2741538376062f78dbaefe989b"
 
