@@ -1,5 +1,5 @@
 cask "negative-lab-pro" do
-  version "3.0.2"
+  version "3.1.1"
   sha256 "2edcb8a1e3a08ba0cb1d9844e01988ed997284a28514db949ddb8b55aecfd9e5"
   
 
